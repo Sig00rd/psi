@@ -1,0 +1,14 @@
+name: ml
+dependencies:
+    - python=3.7
+    - numpy
+    - pandas
+    - seaborn
+    - dask
+    - scikit-learn
+    - scipy
+    - jupyter
+    - matplotlib
+    - tensorflow
+    - keras
+
